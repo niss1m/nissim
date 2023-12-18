@@ -1,7 +1,5 @@
 # nissim
 
-contact: n@nissim.dev
-
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=ffffff)
@@ -15,6 +13,10 @@ contact: n@nissim.dev
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm&logoColor=ffffff)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
+
+<br />
+
+contact: n@nissim.dev
 
 <br />
 
