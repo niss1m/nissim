@@ -17,6 +17,5 @@ contact: n@nissim.dev
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
 
 <br />
-<br />
 
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niss1m&theme=calm&show_icons=true&hide_border=true&count_private=true" />
