@@ -1,8 +1,6 @@
 # nissim
 ### n@nissim.dev
 
-<br />
-
 ### Languages and Tools I use:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
@@ -11,6 +9,7 @@
 ![C#](https://img.shields.io/badge/CSharp-black?style=flat-square&logo=csharp)
 ![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
+<br />
 <br />
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=nextdotjs)
