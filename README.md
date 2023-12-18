@@ -2,14 +2,13 @@
 ### n@nissim.dev
 
 ### Languages and Tools I use:
-
+<br />
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=ab44dd)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C#](https://img.shields.io/badge/CSharp-black?style=flat-square&logo=csharp)
 ![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
-<br />
 <br />
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next](https://img.shields.io/badge/-Next-black?style=flat-square&logo=nextdotjs)
