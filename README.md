@@ -1,7 +1,6 @@
 # nissim
-### n@nissim.dev
 
-### Languages and Tools I use:
+contact: n@nissim.dev
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=ffffff)
