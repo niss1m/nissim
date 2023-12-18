@@ -10,7 +10,8 @@
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat-square&logo=javascript)
 ![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
-![React](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<br />
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm)
