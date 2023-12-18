@@ -16,8 +16,4 @@
 
 <br />
 
-contact: n@nissim.dev
-
-<br />
-
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niss1m&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true" />
