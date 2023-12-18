@@ -7,13 +7,15 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
-![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-black?style=flat-square&logo=javascript)
-![Node](https://img.shields.io/badge/-node-black?style=flat-square&logo=node)
+![NodeJS](https://img.shields.io/badge/-nodejs-black?style=flat-square&logo=nodejs)
+![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
 ![React](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
+![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
+
 ![C#](https://img.shields.io/badge/CSharp-black?style=flat-square&logo=csharp)
 
 <br />
