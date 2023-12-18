@@ -14,7 +14,7 @@
 <br />
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm)
+![WebStorm](https://img.shields.io/badge/-WebStorm-black?style=flat-square&logo=webstorm&logoColor=4b82f2)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode)
 ![C#](https://img.shields.io/badge/CSharp-black?style=flat-square&logo=csharp)
 
